@@ -2,7 +2,7 @@ language: node_js
 node_js:
 - '7'
 script: newman run https://api.getpostman.com/collections/d3bce06a-6475-df4c-4344-910f274c039a?apikey=439f12dbb9544e558137afaf3f32fb6d
-  -e https://api.getpostman.com/environments/2171230-a08e1019-12ae-52d5-1c0d-09d5e2132931?apikey=439f12dbb9544e558137afaf3f32fb6d
+  -e https://api.getpostman.com/environments/2171230-1b2e3053-62ff-e8f1-c193-f8d74cf711b0?apikey=439f12dbb9544e558137afaf3f32fb6d
 deploy:
   api_key:
     secure: OW0tYmfNJ5aLsiXiUiccE06pLSbfZvEaj7yPBDKDp3spNrVq7vGzQtalWkVyxhQYzgOhEi+Nj4SBHIDGoNTEE9MxBrAP5acTNXW4TYZyyBpinni2PAhm+cE0M+qGZcviRqrOLXmslAwebAx5UH1nS0YCkIK3rEbCpvveMSzwnGAEuaqBrF5Y34TVsp+wQM1HuriPPNua1Kft9mn+HHF19Ou62xql7YsPQ8zyuCwIevVp5gnR9gYvemVvLCyU2OI6eEkSR9ijKDppJd20oEk2OSTHjrsYFNg+vnvHLKvPe9Lw0UC+fIrcIkWifa3Dfgu0ObGwGPb7Bxa2VD+rmHMs0l8C88QKOTyL1D14G1GWF2Au86hCJkARui4lm46O+KmeE2S9CrJshtZEqgY3HBw/r+w2n2FI7+ri/JIZrsfRNBYI2EYpv5CfQ7O/YbbdCt0C1BXjXoZXX7GnXLl8IYtQXSGaguAsi3VJGI6Nmq8EedCb+suxLTzWw+aUHUUJgYwqqOKD2CWUEbVSrzngH0Puy6lkd+4f2ShRJmQk+n6WgH8O2b66k+Zcs8gsiRfYYqULDqk0HPZs8PazZJKA+oI7mXirCjADUIoS83KRMi/ljJrD99xviotaPbHEvhCM2ekActDqXjbR5QGYF57dcGCV4ObIMJ7Wh1xD2z5yPYjijq0=
