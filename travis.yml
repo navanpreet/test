@@ -1,4 +1,0 @@
-language: node_js
-node_js:
-  - "7"
-script: "newman run https://api.getpostman.com/collections/d3bce06a-6475-df4c-4344-910f274c039a?apikey=439f12dbb9544e558137afaf3f32fb6d -e https://api.getpostman.com/environments/2171230-a08e1019-12ae-52d5-1c0d-09d5e2132931?apikey=439f12dbb9544e558137afaf3f32fb6d"
